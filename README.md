@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on any pretty interesting backend dev task
 - 📫 How to reach me instagram.com/flourish_ol
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to explore the human mind
+- ⚡ Fun fact: I love to explore the human mind oh also,
+- ⚡ The profile picture was what i could find on my PC at the time
 
 <!---
 f-olukotun/f-olukotun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
