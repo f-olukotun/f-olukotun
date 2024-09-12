@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f-olukotun
 - 👀 I’m interested in using software to make anything possible
-- 🌱 I’m currently learning Backend dev, and I hope sooner or later I'll achieve my wildest dreams which is no.2
+- 🌱 I’m currently on track to understand backennd dev
 - 💞️ I’m looking to collaborate on any pretty interesting backend dev task
 - 📫 How to reach me instagram.com/flourish_ol
 - 😄 Pronouns: He/Him
